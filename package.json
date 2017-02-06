@@ -1,0 +1,17 @@
+{
+  "name": "simpleapp",
+  "version": "1.0.0",
+  "description": "quickest contacts application",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.11"
+  }
+}
